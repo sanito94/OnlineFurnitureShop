@@ -1,0 +1,41 @@
+﻿@model ItemDetailsServiceModel
+@using static OnlineFurnitureShop.Core.Constants.RoleConstants;
+
+@{
+    ViewBag.Title = "Item Details";
+}
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+
+<div class="container" style="display:inline">
+    <div class="row">
+        <div class="col-4">
+            <img class="card-img-top" style="width: 20rem;"
+                 src="@Model.ImageUrl" alt="House Image">
+        </div>
+        <div class="card col-8 border-0">
+            <p style="font-size:25px;"><u>@Model.Name</u></p>
+            <p>
+                Price:
+                <b>@String.Format("{0:f2}", Model.Price)$</b>
+            </p>
+            <p>@Model.Description</p>
+            <p>Category: <b>@Model.Category</b></p>
+            <p>SubCategory: <b>@Model.SubCategory</b></p>
+            <div class="form-inline">
+                @if (this.User?.Identity?.IsAuthenticated ?? false)
+                {
+                    if (User.IsInRole(AdminRole))
+                    {
+                                        <a class="btn btn-warning" asp-controller="Shop" asp-action="Edit"
+                       asp-route-id="@Model.Id">Edit</a>
+                                        <a class="ml-2 btn btn-danger" asp-controller="Shop" asp-action="Delete"
+                       asp-route-id="@Model.Id">Delete</a>
+                    }
+                }
+            </div>
+            <p></p>
+        </div>
+    </div>
+</div>

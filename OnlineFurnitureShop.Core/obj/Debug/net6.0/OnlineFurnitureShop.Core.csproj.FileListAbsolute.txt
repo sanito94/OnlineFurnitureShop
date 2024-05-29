@@ -1,0 +1,15 @@
+C:\Users\Nutzer\Desktop\OnlineFurniture\OnlineFurnitureShop.Core\bin\Debug\net6.0\OnlineFurnitureShop.Core.deps.json
+C:\Users\Nutzer\Desktop\OnlineFurniture\OnlineFurnitureShop.Core\bin\Debug\net6.0\OnlineFurnitureShop.Core.dll
+C:\Users\Nutzer\Desktop\OnlineFurniture\OnlineFurnitureShop.Core\bin\Debug\net6.0\OnlineFurnitureShop.Core.pdb
+C:\Users\Nutzer\Desktop\OnlineFurniture\OnlineFurnitureShop.Core\bin\Debug\net6.0\OnlineFurnitureShop.Infrastructure.dll
+C:\Users\Nutzer\Desktop\OnlineFurniture\OnlineFurnitureShop.Core\bin\Debug\net6.0\OnlineFurnitureShop.Infrastructure.pdb
+C:\Users\Nutzer\Desktop\OnlineFurniture\OnlineFurnitureShop.Core\obj\Debug\net6.0\OnlineFurnitureShop.Core.csproj.AssemblyReference.cache
+C:\Users\Nutzer\Desktop\OnlineFurniture\OnlineFurnitureShop.Core\obj\Debug\net6.0\OnlineFurnitureShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nutzer\Desktop\OnlineFurniture\OnlineFurnitureShop.Core\obj\Debug\net6.0\OnlineFurnitureShop.Core.AssemblyInfoInputs.cache
+C:\Users\Nutzer\Desktop\OnlineFurniture\OnlineFurnitureShop.Core\obj\Debug\net6.0\OnlineFurnitureShop.Core.AssemblyInfo.cs
+C:\Users\Nutzer\Desktop\OnlineFurniture\OnlineFurnitureShop.Core\obj\Debug\net6.0\OnlineFurnitureShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Nutzer\Desktop\OnlineFurniture\OnlineFurnitureShop.Core\obj\Debug\net6.0\OnlineFurnitureShop.Core.csproj.CopyComplete
+C:\Users\Nutzer\Desktop\OnlineFurniture\OnlineFurnitureShop.Core\obj\Debug\net6.0\OnlineFurnitureShop.Core.dll
+C:\Users\Nutzer\Desktop\OnlineFurniture\OnlineFurnitureShop.Core\obj\Debug\net6.0\refint\OnlineFurnitureShop.Core.dll
+C:\Users\Nutzer\Desktop\OnlineFurniture\OnlineFurnitureShop.Core\obj\Debug\net6.0\OnlineFurnitureShop.Core.pdb
+C:\Users\Nutzer\Desktop\OnlineFurniture\OnlineFurnitureShop.Core\obj\Debug\net6.0\ref\OnlineFurnitureShop.Core.dll
